@@ -1,2 +1,2 @@
-email :
-gitID :
+email : parkgunwon1@naver.com
+gitID : gunwonpark
