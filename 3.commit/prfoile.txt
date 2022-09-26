@@ -1,2 +1,2 @@
-email :
-gitID :
+email : junkim
+gitID : JunHyeong-K1m
