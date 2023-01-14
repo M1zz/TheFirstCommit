@@ -1,2 +1,2 @@
-email :
-gitID :
+email :swansea2013@naver.com
+gitID :suwan
