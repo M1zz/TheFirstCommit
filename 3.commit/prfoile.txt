@@ -1,2 +1,2 @@
-email :
-gitID :
+email : tptkds12@gmail.com
+gitID : tptkds
