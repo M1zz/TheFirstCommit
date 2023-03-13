@@ -1,2 +1,2 @@
-email : rain@uzen.net
-gitID : WoonyWoo
+email : 
+gitID : 
