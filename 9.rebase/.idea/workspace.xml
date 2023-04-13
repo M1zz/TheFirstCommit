@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4530dab-437d-41d5-8bb6-ccadaf6f4eae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../9.rebase/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestBook" beforeDir="false" afterPath="$PROJECT_DIR$/guestBook" afterDir="false" />
-    </list>
+    <list default="true" id="cce773d2-0802-4c5b-ba43-7bef6f1f67f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,41 +13,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2ONcVqIfe4iJKmu24ssu842YpW6" />
+  <component name="ProjectId" id="2ON9m9MarvGGNmBnxdaDYWvHIl1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/porkb/OneDrive/바탕 화면/study/Git/Git_Study/11. firstPR&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/porkb/OneDrive/바탕 화면/study/Git/Git_Study/11. firstPR"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="11. firstPR" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="11. firstPR" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4530dab-437d-41d5-8bb6-ccadaf6f4eae" name="Changes" comment="" />
-      <created>1681404506600</created>
+      <changelist id="cce773d2-0802-4c5b-ba43-7bef6f1f67f7" name="Changes" comment="" />
+      <created>1681390328349</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681404506600</updated>
+      <updated>1681390328349</updated>
     </task>
     <servers />
   </component>
