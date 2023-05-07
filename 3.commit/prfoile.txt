@@ -1,2 +1,2 @@
-email :
-gitID :
+email : jeensh25@gmail.com
+gitID : Jeensh
