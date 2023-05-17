@@ -1,2 +1,2 @@
-email :
-gitID :
+email : 냠냠
+gitID : jsh0801
