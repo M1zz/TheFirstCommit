@@ -1,2 +1,5 @@
 <<<<<<< Updated upstream
 아버지 가방에 들어가십니다.
+=======
+아버지가 방에 들어가신다고요?
+>>>>>>> Stashed changes
