@@ -1,2 +1,2 @@
-email :
-gitID :
+email :gr033@naver.com
+gitID :gr033
