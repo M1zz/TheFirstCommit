@@ -1,2 +1,3 @@
 email : seungeun.kim@myrealtrip.com
 gitID : kimseungeunn
+깃 공부공부 test02브랜치에서 생성. main merge가 목표
