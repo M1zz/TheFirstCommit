@@ -1,2 +1,2 @@
-email :
-gitID :
+email :joo27270@naver.com
+gitID :JooMino
