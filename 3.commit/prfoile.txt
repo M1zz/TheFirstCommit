@@ -1,2 +1,2 @@
-email :
-gitID :
+email : re_fuse@naver.com
+gitID :taeaeaexin
