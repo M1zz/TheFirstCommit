@@ -1,2 +1,2 @@
-email :
-gitID :
+email : test@naver.com
+gitID : jeonguk29
