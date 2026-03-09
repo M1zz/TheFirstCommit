@@ -1,2 +1,2 @@
-email :
-gitID :
+email : dy10051@gmail.com
+gitID : Le2024
