@@ -1,2 +1,2 @@
-email :
-gitID :
+email : kwon-_-hj@naver.com
+gitID : khj930629
